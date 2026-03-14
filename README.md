@@ -32,7 +32,7 @@ I enjoy building modern **web and mobile applications**, solving complex problem
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+---
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=RuslanKapisaski&theme=dark&hide_border=true&include_all_commits=true)

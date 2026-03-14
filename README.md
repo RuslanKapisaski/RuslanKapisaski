@@ -64,18 +64,11 @@ Specialization: **Software and Hardware Sciences**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ruslan Kapisaski&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 ## 📫 Contact Me
-
 📍 Sofia, Bulgaria  
-
 📧 Email: **rkapisaski@gmail.com**  
 📞 Phone: **+359884847216**
 ---
 ⭐ Always open to collaboration and interesting projects!
-[![](https://visitcount.itsvg.in/api?id=Ruslan Kapisaski&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

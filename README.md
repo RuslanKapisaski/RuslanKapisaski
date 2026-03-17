@@ -14,7 +14,7 @@ Software engineering student passionate about building modern **web and mobile a
 
 🎓 **4th year student** at **Technical University of Sofia**
 Faculty of **Applied Mathematics and Informatics**
-Specialty: **Information Systems and Networks (ISN)**
+Specialty: **Information Systems and Software Sciences**
 
 Currently completing the **100 Days of Python Challenge** and improving my **full-stack development skills**.
 

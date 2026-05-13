@@ -53,13 +53,6 @@ Currently completing the **100 Days of Python Challenge** and improving my **ful
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ruslankapisaski\&theme=tokyonight\&hide_border=true\&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslankapisaski\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

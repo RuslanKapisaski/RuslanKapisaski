@@ -30,6 +30,7 @@ Currently completing the **100 Days of Python Challenge** and improving my **ful
 *Frontend*
 ---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![LitHTML](https://img.shields.io/badge/LitHTML-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ---
 *Backend & frameworks*
 ---
